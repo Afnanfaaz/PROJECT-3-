@@ -5,9 +5,9 @@ setup(
     version='0.2.1',
     description='Classes for technical analysis of airtraffic dataset.',
     author='Afnan',
-    author_email='',
+    author_email='amohamm7@mail.yu.edu',
     license='MIT',
-    url='',
+    url='https://github.com/Afnanfaaz/Project-3/edit/main/setup.py',
     packages=['airtraffic_analysis'],
     install_requires=[
         'matplotlib>=3.0.2',
